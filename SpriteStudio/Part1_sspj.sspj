@@ -184,9 +184,9 @@
 	</animepackNames>
 	<lastAnimeFile>Anime1.ssae</lastAnimeFile>
 	<lastAnimeName>anime_1</lastAnimeName>
-	<lastPart>Left_Sholder</lastPart>
+	<lastPart>Left_Leg</lastPart>
 	<lastCellMapFile>AnimeMaking/AnimeMaking.ssce</lastCellMapFile>
-	<lastCell>AnimeMaking_5</lastCell>
+	<lastCell>AnimeMaking_3</lastCell>
 	<lastEffectFile></lastEffectFile>
 	<setupmode>0</setupmode>
 	<expandAnimation />
