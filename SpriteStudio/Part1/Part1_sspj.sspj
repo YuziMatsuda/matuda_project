@@ -15,7 +15,7 @@
 		<exportCellMap>0</exportCellMap>
 		<copyImageWhenExportCellmap>1</copyImageWhenExportCellmap>
 		<ssConverterOptions></ssConverterOptions>
-		<player>custom</player>
+		<player>SS6PlayerForUnity</player>
 		<signal></signal>
 		<strictVer4>0</strictVer4>
 		<dontUseMatrixForTransform>0</dontUseMatrixForTransform>
@@ -181,10 +181,11 @@
 	</cellmapNames>
 	<animepackNames>
 		<value>Anime1.ssae</value>
+		<value>Anime1_1.ssae</value>
 	</animepackNames>
-	<lastAnimeFile>Anime1.ssae</lastAnimeFile>
+	<lastAnimeFile>Anime1_1.ssae</lastAnimeFile>
 	<lastAnimeName>anime_1</lastAnimeName>
-	<lastPart>Left_Leg</lastPart>
+	<lastPart>root</lastPart>
 	<lastCellMapFile>AnimeMaking/AnimeMaking.ssce</lastCellMapFile>
 	<lastCell>AnimeMaking_3</lastCell>
 	<lastEffectFile></lastEffectFile>

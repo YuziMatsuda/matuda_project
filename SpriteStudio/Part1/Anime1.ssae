@@ -1138,6 +1138,16 @@
 			<isSetup>0</isSetup>
 			<partAnimes>
 				<partAnime>
+					<partName>root</partName>
+					<attributes>
+						<attribute tag="HIDE">
+							<key time="0">
+								<value>0</value>
+							</key>
+						</attribute>
+					</attributes>
+				</partAnime>
+				<partAnime>
 					<partName>Left_Sholder</partName>
 					<attributes>
 						<attribute tag="ROTZ">
